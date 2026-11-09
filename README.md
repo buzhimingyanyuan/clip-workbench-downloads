@@ -2,13 +2,13 @@
 
 由 **buzhimingyanyuan** 开发与发布的 Windows 视频切片工具，面向直播连麦和长口播。把录像或本地素材转写为文字，按完整连麦轮次或精彩内容整理候选片段，人工审核后导出。
 
-[查看版本与下载](https://github.com/buzhimingyanyuan/clip-workbench-downloads/releases)
+[查看版本与下载](https://github.com/buzhimingyanyuan/clip-workbench-downloads/releases/tag/v0.9.7)
 
-**发布状态**：v0.9.7 正在整理公开分发材料，下载将在 Release 发布后开放。
+**发布状态**：v0.9.7 Windows x64 联网安装预览版已发布。
 
 ## 使用方式
 
-1. 下载 Release 中的 Windows x64 安装包，双击安装，从开始菜单打开「切片工作台」。
+1. 下载 Release 中的 Windows x64 安装包，双击安装。首次安装需要访问 GitHub 和 PyPI 下载约 114 MB 媒体组件。安装后从开始菜单打开「切片工作台」。
 2. 打开「模型与设置」，配置自己的模型服务。语音转写使用包内的本地模型。
 3. 导入视频，选择「精彩片段」或「口播 / 课程」，分析后核对候选片段的起止、标题和字幕。
 4. 审核通过后导出 MP4 或剪映草稿。
